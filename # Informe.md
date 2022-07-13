@@ -14,4 +14,4 @@ main(){
 **Negrita**
 *Italica*
 
-![Digrama](foto.png "Diagrama")
+![Digrama](foto.jpg "Diagrama")
