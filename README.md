@@ -86,4 +86,10 @@ while (1){
 ```
 Utilizamos un `while` para comenzar nuestro codigo, ya que hay una condición que cumplir.
 Luego usamos un `if` ya que la primera condición del while se cumplió, comienza a leer el codigo.
-Los `else` basicamente se refieren a que si no esta ocurriendo el `if` se mantiene activo 
+Los `else` basicamente se refieren a que si no esta ocurriendo el `if` se mantiene activo.
+
+# DIAGRAMA DE FLUJO
+
+lo ultimo que nos falta agregar es el diagram de flujo, el cual explica el funcionamiento del codigo de una manera simplificada.
+
+
