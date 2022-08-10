@@ -90,9 +90,7 @@ Los `else` basicamente se refieren a que si no esta ocurriendo el `if` se mantie
 
 # DIAGRAMA DE FLUJO
 
-lo ultimo que nos falta agregar es el diagram de flujo, el cual explica el funcionamiento del codigo de una manera simplificada.
 ![Diagrama de Flujo](Diagrama de Flujo.svg "Diagrama")
-!
 
 
 
