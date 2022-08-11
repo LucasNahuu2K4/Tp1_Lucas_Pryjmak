@@ -89,8 +89,10 @@ Luego usamos un `if` ya que la primera condición del while se cumplió, comienz
 Los `else` basicamente se refieren a que si no esta ocurriendo el `if` se mantiene activo.
 
 # DIAGRAMA DE FLUJO
+Ahora nos falta la ultima parte la cual es el diagrama de flujo, este mismo explica el funcionamiento del codigo de una forma mas simplificada.                   
 
 
 ![Diagrama de Flujo](Diagrama_TP1.svg "Diagrama")
+
 
 
