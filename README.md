@@ -97,6 +97,6 @@ Ahora nos falta la ultima parte la cual es el diagrama de flujo, este mismo expl
 # FIN DEL INFORME
 Con todo esto finalizamos el informe de nuestro codigo.
 
-## Gracias por leer hasta aqui.
+### Gracias por leer hasta el final!.
 
 
