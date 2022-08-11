@@ -94,5 +94,9 @@ Ahora nos falta la ultima parte la cual es el diagrama de flujo, este mismo expl
 
 ![Diagrama de Flujo](Diagrama_TP1.svg "Diagrama")
 
+# FIN DEL INFORME
+Con todo esto finalizamos el informe de nuestro codigo.
+
+## Gracias por leer hasta aqui.
 
 
