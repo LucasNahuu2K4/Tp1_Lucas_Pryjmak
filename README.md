@@ -91,6 +91,6 @@ Los `else` basicamente se refieren a que si no esta ocurriendo el `if` se mantie
 # DIAGRAMA DE FLUJO
 
 
-![Diagrama de Flujo](Diagrama_TP1.svg"Diagrama")
+![Diagrama de Flujo](Diagrama_TP1.svg "Diagrama")
 
 
